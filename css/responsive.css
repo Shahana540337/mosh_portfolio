@@ -1,0 +1,28 @@
+/* ------------------All Websites responsive Part Start------------------*/
+@media ( max-width:426px ) {
+    .working-process .item{
+        padding: 50px 0;
+        border-radius: 20px;
+    }
+    .working-process .item .work-text{
+        text-align: center;
+    }
+
+    .footer_part .footer .footer_linkspart{
+        text-align: center;
+    }
+    .footer_part .footer_aboutpart .footer_aboutpart-icon{
+        text-align: center;
+    }
+    .footer_part .footer_aboutpart .footer_aboutpart-icon i{
+        margin: 10px;
+    }
+
+}
+@media ( min-width:427px ) and ( max-width :768px ) {
+    .working-process .item{
+        padding: 50px;
+        border-radius: 20px;
+    }
+}
+/* ------------------All Websites responsive Part End------------------*/

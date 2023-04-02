@@ -1,0 +1,109 @@
+
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+/* ------------------------- */
+.row {
+    --bs-gutter-x: 0;
+}
+#blog-part{
+    width: 100%;
+}
+#blog-part .item-1{
+    padding: 0px 35px;
+    box-sizing: border-box;
+    background: #273747;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+#blog-part .item-1 .img{
+    text-align: center;
+}
+#blog-part .item-1 .img img{
+    height: 120px;
+     width: 120px;
+     border-radius: 50%;
+     margin: 30px auto 0px auto;
+}
+#blog-part .item-1 .text h1{
+    text-align: center;
+    color: rgb(245, 248, 250);
+    font-size: 30px;
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 700;
+    margin-top: 10px;
+    letter-spacing: 2px;
+}
+#blog-part .item-1 .text p{
+    text-align: center;
+    color: #9DA1B3;
+    transform: uppercase;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+#blog-part .item-1 nav ul{
+    text-align: center;
+}
+#blog-part .item-1 nav ul li{
+    padding: 12px 0;
+}
+#blog-part .item-1 nav ul li a{
+    color: #EFEFEF;
+    font-size: 17px;
+    transition: .4s;
+}
+#blog-part .item-1 nav ul li a:hover{
+    color: #6DBCDB;
+}
+ #blog-part .item-2{
+     margin-top: 70px; 
+    padding: 10px;
+    box-sizing: border-box;
+}
+#blog-part .item-2 h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+}
+#blog-part .item-2 p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+   color: #273747;
+   margin-top: 40px;
+   line-height: 26px;
+} 
+#blog-part .item-3{
+    margin-top: 70px;
+}
+#blog-part .item-3 .icon a i{
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    text-align: center;
+    background: #51a0f5;
+    margin-left: 8px;
+    border-radius: 5px;
+    color: rgb(252, 252, 251);
+}
+#blog-part .item-3 nav ul li{
+    padding: 12px 0px;
+}
+#blog-part .item-3 nav ul li a{
+    color: #60656f;
+    font-size: 17px;
+    transition: .4s;
+}
+#blog-part .item-3 nav ul li a:hover{
+    color: #6DBCDB;
+}
+/* ------------------------- */ 
+
+
+

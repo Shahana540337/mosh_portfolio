@@ -1,0 +1,35 @@
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* -------------All Websites Start------------*/
+#all-website{
+    background: #f8f8f8;
+    padding-bottom: 30px;
+}
+#all-website .all-item .card{
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 8px;
+}
+#all-website h1{
+    color: #333;
+    text-align: center;
+    font-weight: 200;
+    font-size: 31px;
+    padding: 30px 0px;
+}
+#all-website .button{
+    text-align: center;
+}
+#all-website .button a{
+    padding: 16px 22px;
+    background: #8244FF;
+    border-radius: 25px;
+    color: #f8f8f8;
+}
+/* ----------All Websites Start End------------ */

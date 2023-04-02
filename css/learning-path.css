@@ -1,0 +1,52 @@
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* -------------Start Learning Path------------*/
+.learning-path .header{
+    padding: 70px 10px 35px 10px;
+}
+.learning-path .header h1{
+    padding: 20px 0px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #24263b;
+}
+.learning-path .header p{
+    font-size: 16px;
+    line-height: 30px;
+    color: #433c38;
+}
+.learning-path .item{
+    border: 1px solid #e8e4e4; 
+    border-radius: 10px;
+    padding: 20px 18px;  
+    margin-bottom: 40px;
+}
+.learning-path .item h5{
+    padding: px 0px;
+    font-size: 20px;
+    color: #212338;
+}
+.learning-path .item p{
+    font-size: 15px;
+    color: #88888a;
+}
+.learning-path .item .button a{
+    padding: 10px 18px;
+    background: #1e8bff;
+    color: #fff;
+    border-radius: 20px;
+    transform: .4s;
+    margin-top: 15px 0px;
+}
+.learning-path .item .button a:hover{
+    background-color: #0d71dc;
+}
+
+/* --------------End Learning Path------------ */
+
